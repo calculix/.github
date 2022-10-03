@@ -1,8 +1,6 @@
 Dear CalculiX users,
 
-Thank you for entering the organization! It would be nice if this place will become a central platform for CalculiX development. Now the users community is a little bit scattered especially after Yahoo groups closure. I hope GitHub will unite all of us and make CalculiX software even better and more accessible.
-
-Please, invite your colleagues, transfer here your projects related to CalculiX, communicate and collaborate. Let's make CalculiX great again! :)
+It would be nice if this organization will become a central place for CalculiX development. I hope GitHub will unite all of us and make CalculiX software even better and more accessible. To enter the organization, please, follow this page and wait for email with the invitation link. Then you can transfer here your projects related to CalculiX, communicate and collaborate with others. Let's make CalculiX great again! :)
 
 <!--
 
