@@ -1,6 +1,6 @@
 Dear CalculiX users,
 
-It would be nice if this organization will become a central place for CalculiX development. I hope GitHub will unite all of us and make CalculiX software even better and more accessible. To enter the organization, please, [post your GitHub username here](https://calculix.discourse.group/t/calculix-source-code-repository/84/2?u=imirzov) and wait for email with the invitation link. Then you can transfer here your projects related to CalculiX, communicate and collaborate with other developers. Let's make CalculiX great again! :)
+It would be nice if this organization will become a central place for CalculiX development. GitHub could unite all of the developers and contributors and make CalculiX software even better and more popular. To enter the organization, please, [post your GitHub username here](https://calculix.discourse.group/t/calculix-source-code-repository/84/2?u=imirzov) and wait for email with the invitation link. Then you can transfer here your projects related to CalculiX, communicate and collaborate with other developers.
 
 <!--
 
